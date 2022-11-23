@@ -177,8 +177,8 @@ img {
 
 .hero {
   margin: 0;
-  padding-top: 200px;
-  padding-bottom: 200px;
+  /* padding-top: 200px;
+  padding-bottom: 200px; */
   text-align: center;
   background-color: var(--hero-background-color);
 }
@@ -228,7 +228,7 @@ img {
   height: 600px;
   margin-left: auto;
   margin-right: auto;
-  background-image: linear-gradient(rgba(47, 48, 58, 0.4), rgba(47, 48, 58, 0.4)), url(../images/hero.jpg);
+  background-image: linear-gradient(rgba(47, 48, 58, 0.4), rgba(47, 48, 58, 0.4)), url(../images/hero_fon.jpg);
   background-color: var(--bgr-color);
 }
 /* блок Переваги */
