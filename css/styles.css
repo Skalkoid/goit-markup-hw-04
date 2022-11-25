@@ -134,8 +134,7 @@ img {
   display: flex;
   align-items: center;
   margin-left: auto;
-  /* !padding-top: 32px;
-  !padding-bottom: 32px; */
+ 
   gap: 50px;
 }
 .header-contact:not(:last-child) {
@@ -559,10 +558,7 @@ img {
 /* --------------------ПОРТФОЛИО----------------- */
 /* ---------------------------------------------- */
 
-/* .portfolio-button-container {
- margin-top: 94px;
- margin-bottom: 34px;  */
-/* } */
+
 .portfolio-button-list {
   display: flex;
   justify-content: center;
